@@ -1,0 +1,19 @@
+button{
+  width: 120px;
+  height: 50px;
+}
+
+#ChecBTN{
+  width: 100px;
+  height: 50px;
+}
+
+img{
+  padding: 10px;
+  width: 200px;
+  height: auto;
+}
+
+body{
+  text-align: center;
+}
